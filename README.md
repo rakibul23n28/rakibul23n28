@@ -4,7 +4,7 @@
 
 I'm Rakibul Hasan, a full stack web developer with a passion for creating innovative and user-friendly digital experiences. With expertise in both front-end and back-end technologies, I bring ideas to life through clean and efficient code. I thrive in collaborative environments and constantly seek to expand my skills to stay up-to-date with industry trends. Committed to delivering high-quality solutions, I enjoy solving complex problems and turning them into successful web applications.
 
-Skills:  JS / HTML / CSS / PYTHON / DJANGO
+Skills:  JS / HTML / CSS / PYTHON / DJANGO / C / c++
 
 - 🔭 I’m currently working on Python Django Project 
 - 🌱 I’m currently learning Python Django framework  
