@@ -2,7 +2,7 @@
 
 # Hello there, I'm Rakibul Hasan! 👋
 
-<a href="https://portfolio-blush-theta-43.vercel.app/">
+<a href="https://rakibul23n28.vercel.app/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Passionate+about+Clean+Code;Turning+Ideas+into+Web+Apps" alt="Typing SVG" />
 </a>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-**[🚀 Check out my Portfolio!](https://portfolio-blush-theta-43.vercel.app/)**
+**[🚀 Check out my Portfolio!](https://rakibul23n28.vercel.app/)**
 
 </div>
 
